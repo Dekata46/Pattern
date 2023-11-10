@@ -1,0 +1,24 @@
+{
+  "name": "pattern",
+  "version": "1.0.0",
+  "description": "layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "scss",
+    "layout"
+  ],
+  "author": "dekata",
+  "license": "ISC",
+  "dependencies": {
+    "browsersync": "^0.0.1-security",
+    "normalizecss": "^3.0.0",
+    "react": "^18.2.0",
+    "resetcss": "^1.0.3",
+    "sass": "^1.69.3",
+    "swiper": "^10.3.1"
+  }
+}
